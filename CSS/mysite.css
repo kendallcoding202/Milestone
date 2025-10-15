@@ -19,7 +19,8 @@ th, td {
 
 th { text-decoration-line: underline;}
 
-h1 { text-shadow: 2px 2px grey; }
+h1 { text-shadow: 2px 2px grey; 
+}
 
  nav li {
             display: inline;
